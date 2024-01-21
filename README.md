@@ -10,4 +10,4 @@ dataset
     └─labels
 
 
-SE block 在cfg文件夹里
+.yaml文件在cfg-models-v8文件夹里
