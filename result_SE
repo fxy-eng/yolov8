@@ -1,3 +1,4 @@
+# 结果记录 +SE block
 Validating runs\detect\train10\weights\best.pt...
 Ultralytics YOLOv8.0.228 🚀 Python-3.11.5 torch-2.1.0 CPU (13th Gen Intel Core(TM) i5-13500H)
 YOLOv8_SE summary (fused): 174 layers, 3048363 parameters, 0 gradients
